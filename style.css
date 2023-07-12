@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  .TodoList_Wrapper{
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;
+    border: 5px solid pink;
+    height: 50vh;
+    background-color: #77778e;
+    border-radius: 12px 12px;
+  }
+  h1 {
+    color: #333;
+  }
+  
+  input[type="text"] {
+    padding: 5px;
+    width: 200px;
+  }
+  
+  button {
+    padding: 5px 10px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  ul {
+    list-style-type: none;
+  }
+  
+  li {
+    margin-bottom: 5px;
+  }
